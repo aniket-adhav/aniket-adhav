@@ -18,12 +18,13 @@
 
 ---
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-adhav-a70182312/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aniket_adhav/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/aniket_adhav_07?igsh=MXFuOHJkb3U3MTY5OQ==)   
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/aniket.adhav.14661))  
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/aniket_adhav_07?s=09))  
+### 📱 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aniket-adhav-a70182312/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/u/aniket_adhav/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/aniket_adhav_07?igsh=MXFuOHJkb3U3MTY5OQ==)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)]([https://facebook.com/](https://www.facebook.com/aniket.adhav.14661)) 
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)]([https://twitter.com/](https://x.com/aniket_adhav_07?s=09)) 
 
 ---
 
