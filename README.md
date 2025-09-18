@@ -2,7 +2,7 @@
 
 👨‍💻 Passionate **Android Developer** building modern apps with **Jetpack Compose**, **MVVM**, and **Clean Architecture**.  
 🚀 Love solving problems and optimizing apps for **performance, scalability, and clean UI/UX**.  
-🛒 Check out my latest project: **Currency Exchange App**  
+🛒 Check out my latest project: **Movies House App**  
 📚 Currently diving deeper into **KMP (Kotlin Multiplatform)** and **advanced architecture patterns**.  
 📧 Reach me at: **aniketadhav2006@gmail.com**  
 🌐 Portfolio: *(coming soon)*  
