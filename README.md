@@ -21,13 +21,14 @@
 - **Other Tools & Services**: Firebase (Auth · Analytics · Crashlytics · Messaging) · REST APIs · Notion  
 
 ---
-### 📱 Socials  
+### 📱 Socials 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aniket-adhav-a70182312/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/u/aniket_adhav/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/aniket_adhav_07?igsh=MXFuOHJkb3U3MTY5OQ==)  
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/aniket.adhav.14661)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aniket-adhav-a70182312/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode)](https://leetcode.com/u/aniket_adhav/) 
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/aniket_adhav_07?igsh=MXFuOHJkb3U3MTY5OQ==) 
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/aniket.adhav.14661) 
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter)](https://x.com/aniket_adhav_07?s=09)  
+  
 
 ---
 
