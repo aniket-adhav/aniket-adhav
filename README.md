@@ -5,7 +5,7 @@
 🛒 Check out my latest project: **Movies House App**  
 📚 Currently diving deeper into **KMP (Kotlin Multiplatform)** and **advanced architecture patterns**.  
 📧 Reach me at: **aniketadhav2006@gmail.com**  
-🌐 Portfolio: *(coming soon)*  
+🌐 Portfolio:   
 
 ---
 
