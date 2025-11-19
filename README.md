@@ -10,15 +10,7 @@
 ---
 
 ###### 🛠️ Skills & Expertise  
-
-- **Programming Languages**: Kotlin · Java · C++ · Python  
-- **Android Development**: Jetpack Compose · Android Framework · Retrofit · Ktor · Coroutines · WorkManager · Navigation Component · Error Handling · Profiler  
-- **Architecture**: Clean Architecture · Multi-Module · MVI · MVVM · MVP · Dependency Injection (Hilt · Dagger2 · Koin)  
-- **UI/UX**: Material Design 3 · Motion Layout · Theming · Adaptive Layouts · Custom Views  
-- **Database & Storage**: SQLite · RoomDB · DataStore · MongoDB · Firebase Realtime Database · Firestore  
-- **Testing**: Unit Testing · UI Testing · Test-Driven Development (TDD)  
-- **Version Control & CI/CD**: Git · GitHub · GitHub Actions · Gradle  
-- **Other Tools & Services**: Firebase (Auth · Analytics · Crashlytics · Messaging) · REST APIs · Notion  
+  
 
 ---
 ### 📱 Socials 
@@ -44,6 +36,6 @@
 ![Room](https://img.shields.io/badge/Room-1976d2?logo=google&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-orange?logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
 
 **Tools & Collaboration**  
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)   
 
 ---
