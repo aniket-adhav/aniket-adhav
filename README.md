@@ -2,7 +2,7 @@
 
 👨‍💻 Passionate **Android Developer** building modern apps with **Jetpack Compose**, **MVVM**, and **Clean Architecture**.  
 🚀 Love solving problems and optimizing apps for **performance, scalability, and clean UI/UX**.  
-🛒 Check out my latest project: **Movies House App**  
+🛒 Check out my latest project: **Civic Assist**  
 📚 Currently diving deeper into **KMP (Kotlin Multiplatform)** and **advanced architecture patterns**.  
 📧 Reach me at: **aniketadhav2006@gmail.com**  
 🌐 Portfolio:   
@@ -30,10 +30,10 @@
 ![Android](https://img.shields.io/badge/Android-green?logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)  
 
 **Architecture & Libraries**  
-![MVVM](https://img.shields.io/badge/MVVM-673ab7?logo=android&logoColor=white) ![MVI](https://img.shields.io/badge/MVI-2196f3?logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-00bcd4?logo=square&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-black?logo=ktor&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin&logoColor=white) ![Hilt](https://img.shields.io/badge/Hilt-FF6F00?logo=google&logoColor=white)  
+![MVVM](https://img.shields.io/badge/MVVM-673ab7?logo=android&logoColor=white) ![MVI](https://img.shields.io/badge/MVI-2196f3?logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-00bcd4?logo=square&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-black?logo=ktor&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin&logoColor=white) 
 
 **Database & Cloud**  
-![Room](https://img.shields.io/badge/Room-1976d2?logo=google&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-orange?logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
+![Room](https://img.shields.io/badge/Room-1976d2?logo=google&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
 
 **Tools & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)   
