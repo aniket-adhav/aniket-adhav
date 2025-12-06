@@ -33,7 +33,7 @@
 ![MVVM](https://img.shields.io/badge/MVVM-673ab7?logo=android&logoColor=white) ![MVI](https://img.shields.io/badge/MVI-2196f3?logo=android&logoColor=white) ![Retrofit](https://img.shields.io/badge/Retrofit-00bcd4?logo=square&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-black?logo=ktor&logoColor=white) ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin&logoColor=white) 
 
 **Database & Cloud**  
-![Room](https://img.shields.io/badge/Room-1976d2?logo=google&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003b57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
+![Room](https://img.shields.io/badge/Room-1976d2?logo=google&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=black)  ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)  
 
 **Tools & Collaboration**  
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)   
