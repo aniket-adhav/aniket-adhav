@@ -3,9 +3,29 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Aniket Adhav
 
-### 🚀 Full Stack Developer • Android Developer • Competitive Programmer
+### 🚀 Full Stack Web Developer • Android Developer • Competitive Programmer
 
-<img src="./assets/space-shooter.gif" width="100%" alt="Banner"/>
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 <br>
 
@@ -265,22 +285,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="./assets/space-shooter.gif" width="100%" alt="Space Shooter"/>
 
 </div>
 
@@ -298,12 +303,4 @@ If you like my work, consider giving a ⭐ to my repositories and following me o
 
 </div>
 
-<div align="center">
 
-## ⭐ Thanks for Visiting!
-
-If you like my work, consider giving a ⭐ to my repositories and connecting with me.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,100:0072FF&section=footer"/>
-
-</div>
