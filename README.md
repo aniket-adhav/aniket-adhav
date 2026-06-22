@@ -223,6 +223,8 @@
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -253,19 +255,35 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=aniket-adhav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aniket-adhav&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
 <br>
 
+<!-- Enable this only after configuring the Snake GitHub Action -->
+
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
+<br>
+
 ---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+If you like my work, consider giving a ⭐ to my repositories and following me on GitHub.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=140&section=footer"/>
+
+</div>
 
 <div align="center">
 
