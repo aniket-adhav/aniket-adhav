@@ -30,21 +30,21 @@
 
 ### 👨‍💻 Hello!
 
-🎓 **Computer Engineering Student** at **Dr. D. Y. Patil Institute of Technology, Pune**
+🎓 Computer Engineering Student at **Dr. D. Y. Patil Institute of Technology, Pune**
 
-💻 Passionate about building modern **Full Stack Web Applications** and **Native Android Apps**.
+💙 Passionate about developing **Full Stack Web Applications** and **Native Android Apps**.
 
-🏆 **Knight** on LeetCode with **700+ DSA problems solved**.
+🏆 Knight on LeetCode with **700+ DSA Problems Solved**.
 
-🌱 Currently exploring **Java**, **Spring Boot**, **System Design**, **Cloud**, and **DevOps**.
+🚀 Currently exploring **Java**, **Spring Boot**, **System Design**, **Cloud Computing**, and **Artificial Intelligence**.
 
-🚀 I enjoy solving real-world problems by building scalable, user-friendly software.
+✨ I enjoy building impactful software, solving challenging problems, and continuously learning new technologies.
 
 </td>
 
 <td align="center" width="40%">
 
-<img src="./assets/space-shooter.gif" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </td>
 
@@ -53,31 +53,31 @@
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:aniketadhav2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:aniketadhav2006@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/aniket-adhav" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-<a href="https://github.com/aniket-adhav">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-<a href="https://leetcode.com/u/aniket-adhav/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/aniket-adhav/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55" />
 </a>
 
-<a href="https://instagram.com/aniket_adhav_07">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/aniket_adhav_07" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="55" />
 </a>
 
-</div>
+</p>
 
 ---
 
@@ -99,20 +99,17 @@
 
 <p>
 
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark"/>
+</a>
+
 <a href="https://www.java.com/">
 <img src="https://skillicons.dev/icons?i=java&theme=dark"/>
 </a>
 
 <a href="https://kotlinlang.org/">
 <img src="https://skillicons.dev/icons?i=kotlin&theme=dark"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://skillicons.dev/icons?i=c&theme=dark"/>
 </a>
 
 <a href="https://www.python.org/">
@@ -127,10 +124,6 @@
 <img src="https://skillicons.dev/icons?i=ts&theme=dark"/>
 </a>
 
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://skillicons.dev/icons?i=bash&theme=dark"/>
-</a>
-
 </p>
 
 ---
@@ -139,7 +132,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,spring,django,flask&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express,spring&theme=dark"/>
 
 </p>
 
@@ -147,7 +140,7 @@
 
 ### 📱 Android Development
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,gradle&theme=dark"/>
 
@@ -155,7 +148,27 @@
 
 <p align="center">
 
-Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Retrofit • Room Database • Hilt • Navigation Compose • Paging 3 • DataStore • WorkManager • Material 3
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flow-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Paging%203-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Navigation%20Compose-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DataStore-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WorkManager-607D8B?style=for-the-badge"/>
 
 </p>
 
@@ -165,7 +178,7 @@ Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Retr
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase&theme=dark"/>
 
 </p>
 
@@ -173,25 +186,36 @@ Jetpack Compose • MVVM • Clean Architecture • Coroutines • Flow • Retr
 
 ### 🤖 AI & Machine Learning
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 
 </p>
 
 <p align="center">
 
-NumPy • Pandas • Feature Engineering • PDF Processing • NLP • Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-3DDC84?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PDF%20Processing-E53935?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-8E24AA?style=for-the-badge"/>
 
 </p>
-
 ---
 
 ### 🔧 Tools & Platforms
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,figma,vercel,azure,npm,yarn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,vercel,azure,npm&theme=dark"/>
 
 </p>
 
