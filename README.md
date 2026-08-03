@@ -7,24 +7,6 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-</picture>
-
 </div>
 
 <br>
@@ -54,7 +36,7 @@
 
 💙 Passionate about developing **Full Stack Web Applications** and **Native Android Apps**.
 
-🏆 Knight on LeetCode with **700+ DSA Problems Solved**.
+🏆 Knight on LeetCode with **800+ DSA Problems Solved**.
 
 🚀 Currently exploring **Java**, **Spring Boot**, **System Design**, **Cloud Computing**, and **Artificial Intelligence**.
 
@@ -85,11 +67,11 @@
 <img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/aniket-adhav-a70182312/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-<a href="https://leetcode.com/u/aniket-adhav/" target="_blank">
+<a href="https://leetcode.com/u/aniket_adhav/" target="_blank">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="55" />
 </a>
 
@@ -283,9 +265,27 @@
 
 <!-- Enable this only after configuring the Snake GitHub Action -->
 
+<!-- 🐍 Contribution Snake -->
+
 <div align="center">
 
-<img src="./assets/space-shooter.gif" width="100%" alt="Space Shooter"/>
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aniket-adhav/aniket-adhav/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
